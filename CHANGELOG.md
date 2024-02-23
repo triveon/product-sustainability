@@ -1,3 +1,18 @@
+## [6.2.7](https://github.com/triveon/product-sustainability/compare/v6.2.6...v6.2.7) (2024-02-23)
+
+
+### Bug Fixes
+
+* Test develop3 ([6259214](https://github.com/triveon/product-sustainability/commit/62592140e9747d2ef373d09b547064433154a445))
+* Test develop3 ([5134e23](https://github.com/triveon/product-sustainability/commit/5134e231b65ed68f937af6c9ebb62d9278726020))
+
+## [6.2.6](https://github.com/triveon/product-sustainability/compare/v6.2.5...v6.2.6) (2024-02-23)
+
+
+### Bug Fixes
+
+* Test develop ([e7b24fa](https://github.com/triveon/product-sustainability/commit/e7b24fa5cc7806c7aabe2bfc1e5187b9d171c2fb))
+
 ## [6.2.5](https://github.com/triveon/product-sustainability/compare/v6.2.4...v6.2.5) (2024-02-23)
 
 
