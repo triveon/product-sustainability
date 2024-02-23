@@ -1,3 +1,10 @@
+## [6.2.3](https://github.com/triveon/product-sustainability/compare/v6.2.2...v6.2.3) (2024-02-23)
+
+
+### Bug Fixes
+
+* Changed github token ([9da6cd1](https://github.com/triveon/product-sustainability/commit/9da6cd1ea8f2cd3cefb2c4c77672dd7b89b4f784))
+
 ## [6.2.2](https://github.com/triveon/product-sustainability/compare/v6.2.1...v6.2.2) (2024-02-23)
 
 
