@@ -1,3 +1,10 @@
+## [6.2.5](https://github.com/triveon/product-sustainability/compare/v6.2.4...v6.2.5) (2024-02-23)
+
+
+### Bug Fixes
+
+* Changed branch ([0930261](https://github.com/triveon/product-sustainability/commit/0930261fb5c5694199dfe27dea44182707588ddd))
+
 ## [6.2.4](https://github.com/triveon/product-sustainability/compare/v6.2.3...v6.2.4) (2024-02-23)
 
 
