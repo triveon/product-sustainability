@@ -11,7 +11,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: CupOfTea696/gh-action-auto-release@v1.0.2
         with:
-          title: "Release: $version"
+          title: "$version"
+          prefix: "v"
           tag: "v$semver"
           draft: false
           regex: "/^Release: #{semver}$/i"
