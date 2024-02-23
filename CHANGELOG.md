@@ -1,3 +1,10 @@
+## [6.2.4](https://github.com/triveon/product-sustainability/compare/v6.2.3...v6.2.4) (2024-02-23)
+
+
+### Bug Fixes
+
+* Removed composer v update ([9c6261c](https://github.com/triveon/product-sustainability/commit/9c6261ce10deb36ba8fa217126291b381daff076))
+
 ## [6.2.3](https://github.com/triveon/product-sustainability/compare/v6.2.2...v6.2.3) (2024-02-23)
 
 
