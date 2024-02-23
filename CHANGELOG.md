@@ -17,7 +17,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 - Fixed a typo in the README
 - Bugfix for #24
-- New test
+- New test2
 
 ## v5.0.0
 ### Changed
