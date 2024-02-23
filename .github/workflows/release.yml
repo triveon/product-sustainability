@@ -1,8 +1,7 @@
-name: Test
+name: Release
 
 on:
   push:
-  pull_request:
 
 jobs:
   release:
