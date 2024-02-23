@@ -17,3 +17,11 @@ jobs:
           regex: "/^Release: #{semver}$/i"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+changelog:
+  categories:
+    - title: What's Changed
+      labels:
+        - "*"
+
+
