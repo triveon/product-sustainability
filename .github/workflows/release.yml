@@ -19,6 +19,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 changelog:
+  exclude:
+    - authors:
+        - "*"
   categories:
     - title: What's Changed
       labels:
