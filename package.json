@@ -2,6 +2,9 @@
   "name": "product-sustainability",
   "version": "1.0.0",
   "description": "Product Sustainability",
+  "scripts": {
+    "build": "node esbuild.cjs"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/triveon/product-sustainability.git"
