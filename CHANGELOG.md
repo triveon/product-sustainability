@@ -1,3 +1,10 @@
+# [6.2.0](https://github.com/triveon/product-sustainability/compare/v6.1.0...v6.2.0) (2024-02-23)
+
+
+### Features
+
+* Changed ci.yml ([08ef833](https://github.com/triveon/product-sustainability/commit/08ef83346083a4c0bc52fc731c9bd1f6931179a4))
+
 # [6.1.0](https://github.com/triveon/product-sustainability/compare/v6.0.3...v6.1.0) (2024-02-23)
 
 
