@@ -1,27 +1,24 @@
-#name: Release
-#
-#on:
-#  push:
-#    branches: [ master ]
-#
-#jobs:
-#  release:
-#    runs-on: ubuntu-latest
-#    steps:
-#      - uses: actions/checkout@v2
-#      - uses: CupOfTea696/gh-action-auto-release@v1.0.2
-#        with:
-#          title: "v$semver"
-#          tag: "v$semver"
-#          draft: false
-#          regex: "/^Release: #{semver}$/i"
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+name: "Release"
 
-changelog:
-  categories:
-    - title: What's Changed
-      labels:
-        - "*"
+on:
+  push:
+    tags:
+      - "v*"
 
+jobs:
+  tagged-release:
+    name: "Tagged Release"
+    runs-on: "ubuntu-latest"
 
+    steps:
+      - name: "Build & test"
+        run: |
+          echo "done!"
+
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+          files: |
+            LICENSE.txt
+            *.jar
