@@ -1,3 +1,3 @@
 # Product Sustainability Magento 2
 
-Version 1 Test
+Version 2 Test
