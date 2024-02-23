@@ -1,3 +1,10 @@
+## [6.2.2](https://github.com/triveon/product-sustainability/compare/v6.2.1...v6.2.2) (2024-02-23)
+
+
+### Bug Fixes
+
+* Removed pull requests permission ([1ea03d5](https://github.com/triveon/product-sustainability/commit/1ea03d59e67085a0b7c9f617c7af8fdfb0969240))
+
 ## [6.2.1](https://github.com/triveon/product-sustainability/compare/v6.2.0...v6.2.1) (2024-02-23)
 
 
