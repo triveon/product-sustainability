@@ -2,7 +2,7 @@
     "name": "triveon/product-sustainability",
     "description": "A module to use custom variables in translatable CMS strings",
     "type": "magento2-module",
-    "version": "6.2.0",
+    "version": "6.2.1",
     "license": [
         "OSL-3.0"
     ],
