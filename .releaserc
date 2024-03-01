@@ -4,8 +4,7 @@
       "name": "master"
     },
     {
-      "name": "develop",
-      "channel": "beta",
+      "name": "beta",
       "prerelease": true
     }
   ],
