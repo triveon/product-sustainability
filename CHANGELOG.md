@@ -1,3 +1,10 @@
+# [6.6.0-beta.2](https://github.com/triveon/product-sustainability/compare/v6.6.0-beta.1...v6.6.0-beta.2) (2024-03-01)
+
+
+### Bug Fixes
+
+* Changed readme file ([6febf19](https://github.com/triveon/product-sustainability/commit/6febf1917015930a3baed0c8a789c08c11a2f155))
+
 # [6.6.0-beta.1](https://github.com/triveon/product-sustainability/compare/v6.5.0...v6.6.0-beta.1) (2024-03-01)
 
 
