@@ -1,3 +1,10 @@
+# [6.6.0-beta.1](https://github.com/triveon/product-sustainability/compare/v6.5.0...v6.6.0-beta.1) (2024-03-01)
+
+
+### Features
+
+* Added beta prerelease ([5eb2aa0](https://github.com/triveon/product-sustainability/commit/5eb2aa08ae7c235061938bf09384698cd2a2386b))
+
 # [6.5.0](https://github.com/triveon/product-sustainability/compare/v6.4.0...v6.5.0) (2024-03-01)
 
 
