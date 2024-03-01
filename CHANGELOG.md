@@ -1,3 +1,16 @@
+# [6.3.0](https://github.com/triveon/product-sustainability/compare/v6.2.7...v6.3.0) (2024-03-01)
+
+
+### Bug Fixes
+
+* Added develop ([98aecae](https://github.com/triveon/product-sustainability/commit/98aecae0295d800400ba789afefaf86f3825b237))
+* Updated readme.md ([4f58d4e](https://github.com/triveon/product-sustainability/commit/4f58d4ee39e40c4c6267280b0e878d681cce5173))
+
+
+### Features
+
+* Removed develop ([18b7aaa](https://github.com/triveon/product-sustainability/commit/18b7aaaa3d1a1830d367430320a7737dc1d7e315))
+
 ## [6.2.7](https://github.com/triveon/product-sustainability/compare/v6.2.6...v6.2.7) (2024-02-23)
 
 
