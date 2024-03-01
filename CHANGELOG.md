@@ -1,3 +1,10 @@
+## [6.3.1-beta.2](https://github.com/triveon/product-sustainability/compare/v6.3.1-beta.1...v6.3.1-beta.2) (2024-03-01)
+
+
+### Bug Fixes
+
+* Version change ([172ce93](https://github.com/triveon/product-sustainability/commit/172ce9341c5afdfbc78c36bb0a6992a5e3712962))
+
 ## [6.3.1-beta.1](https://github.com/triveon/product-sustainability/compare/v6.3.0...v6.3.1-beta.1) (2024-03-01)
 
 
